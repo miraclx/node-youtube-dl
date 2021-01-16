@@ -195,7 +195,7 @@
     "execa": "~5.0.0",
     "hh-mm-ss": "~1.2.0",
     "mkdirp": "~1.0.4",
-    "request": "~2.88.0",
+    "got": "~11.6.0",
     "streamify": "~0.2.9",
     "universalify": "~2.0.0"
   },
